@@ -1,3 +1,10 @@
-#GroqAPI Key. Never commiting this 
+#GroqAPI Key. Never commiting this
 .env
 .venv/
+
+# Runtime audit log database (generated at runtime)
+audit_log.db
+
+# IDE settings and Python bytecode cache
+.idea/
+__pycache__/
